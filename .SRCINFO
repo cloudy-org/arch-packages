@@ -1,0 +1,19 @@
+pkgbase = roseate
+	pkgdesc = 🌹 A fancy yet simple image viewer — highly configurable, cross-platform, GPU-accelerated and fast as fu#k.
+	pkgver = 0.1.0.alpha.16
+	pkgrel = 1
+	url = https://github.com/cloudy-org/roseate
+	arch = x86_64
+	license = GPL-3.0-only
+	makedepends = git
+	makedepends = cargo
+	depends = libxcb
+	depends = libxkbcommon
+	depends = openssl
+	depends = libxrandr
+	provides = roseate
+	conflicts = roseate-bin
+	source = git+https://github.com/cloudy-org/roseate.git#tag=0.1.0-alpha.16
+	sha256sums = SKIP
+
+pkgname = roseate
