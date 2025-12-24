@@ -1,3 +1,5 @@
+# Maintainer: Goldy goldy@devgoldy.xyz
+
 pkgname=roseate
 _pkgver="0.1.0-alpha.16"
 pkgver=${_pkgver//-/.}
