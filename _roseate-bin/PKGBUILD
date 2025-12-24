@@ -1,3 +1,5 @@
+# Maintainer: Goldy goldy@devgoldy.xyz
+
 _pkgname=roseate
 pkgname=roseate-bin
 _pkgver="0.1.0-alpha.10"
@@ -15,7 +17,7 @@ source=(
     "roseate.desktop::https://raw.githubusercontent.com/cloudy-org/roseate/refs/heads/main/assets/roseate.desktop"
 )
 sha256sums=(
-    "523b549a616e2c25b28bc8bc9fe173df35025d5abc435802d40b3da984ac2091"
+    "SKIP" # doesn't exist yet
     "168c0217ee4dd6c6d9ddea1c3c3452df99a0bae16c7d97e85a34977e09556e60"
     "66917d0bf20f300ee88770cc0597f2cbfcd8b84688a3595f8066b1101fd8bc1c"
 )
