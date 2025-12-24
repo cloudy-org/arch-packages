@@ -1,5 +1,3 @@
-# Maintainer: Goldy goldy@devgoldy.xyz
-
 _pkgname=roseate
 pkgname=roseate-bin
 _pkgver="0.1.0-alpha.10"
