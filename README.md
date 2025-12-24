@@ -6,6 +6,7 @@ Please use `aurpublish` for publishing:
 
 aurpublish roseate
 ```
+> However you must commit your changes first for them to be pushed with this command.
 
 To add an AUR package use the `-p` command like so:
 
