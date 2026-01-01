@@ -1,0 +1,6 @@
+src
+pkg
+*.pkg.tar.zst
+
+roseate/roseate
+roseate-bin/roseate-bin
